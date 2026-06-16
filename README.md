@@ -89,7 +89,9 @@ My main objective was to understand the I2C protocol for future projects and wor
 I also learned that:
 
 data is transmitted in structured frames
-devices are selected using addresses
+
+devices are selected using addresses \n
+
 and communication relies on a master-slave architecture
 
 ---
