@@ -90,7 +90,7 @@ I also learned that:
 
 data is transmitted in structured frames
 
-devices are selected using addresses \n
+devices are selected using addresses 
 
 and communication relies on a master-slave architecture
 
